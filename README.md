@@ -3,8 +3,11 @@ A backend Java springboot application
 
 Setup:
 1- Clone the repo
+
 2- Open with vscode or editor of choice
+
 3- Wait for maven install all dependencies
+
 4- Start applicaiton
 
 The application will start at port 8001 by default, if you want to change it go to the application.properties and change port number
