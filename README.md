@@ -18,7 +18,7 @@ This will return an object that includes the exchange rate for the requested fro
 ![image](https://user-images.githubusercontent.com/22933014/172160154-a9d6cb53-cb78-41a6-825c-58e6e30d6668.png)
 	
 Response body
-Download
+
 {
   "id": 8,
   "from": "PHP",
@@ -31,7 +31,7 @@ This will return an object that includes the calculated conversion for the reque
 ![image](https://user-images.githubusercontent.com/22933014/172160858-68f7d3c2-d0da-4bf0-a4ff-148f647e1818.png)
 	
 Response body
-Download
+
 {
   "id": 7,
   "from": "USD",
