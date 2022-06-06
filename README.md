@@ -11,7 +11,7 @@ Setup:
 
 4- Start applicaiton
 
-The application will start at port 8001 by default, if you want to change it go to the application.properties and change port number
+The application will start on port 8001 by default, if you want to change it go to the application.properties and change port number
 
 Rest API:
 Swagger: http://localhost:8001/swagger-ui/index.html
