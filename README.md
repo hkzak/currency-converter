@@ -2,6 +2,7 @@
 A backend Java springboot application
 
 Setup:
+
 1- Clone the repo
 
 2- Open with vscode or editor of choice
